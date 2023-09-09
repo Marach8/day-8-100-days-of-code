@@ -1,4 +1,4 @@
-print('\033[33mWholesome Positivity Machine\033[0m')
+print('\033[33mWholesome Positivity Machine.\033[0m')
 print()
 a = input('Who are you? ')
 print()
